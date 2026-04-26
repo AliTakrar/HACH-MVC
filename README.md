@@ -15,7 +15,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________
 | -Poor handling of heterogeneity- | Simple concatenation or weighted sum | ---------Heterogeneous GNN---------- |
 _________________________________________________________________________________________________________________
-| Sample imbalance, false negatives | -------Adversarial augmentations------ | ------ Hierarchical anchor‑guided------ | 
+| Sample imbalance, false negatives | -------Adversarial augmentations------ | ------ Hierarchical anchor‑guided----- | 
 | -------in contrastive learning------ | -------------------------------------------| -----------contrastive learning---------- |
 _________________________________________________________________________________________________________________
 | ----Rigid K‑means initialization---- | ------------2‑stage pipelines----------- | ------Adaptive bi‑stage clustering------ |
