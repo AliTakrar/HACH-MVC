@@ -1,0 +1,145 @@
+dataset_name: WebKB
+
+structral noise: 0
+feature noise: 0.0
+h hop: 3
+topK: 3
+dynamically adjaust h & k : 1
+ACC: 84.53	0.70
+NMI: 68.31	2.62
+Purity: 84.53	0.70
+ARI: 65.50	2.90
+P: 74.08	0.92
+R: 97.58	1.00
+F: 84.22	0.91
+Davies_Bouldin: 0.80	0.10
+Calinski_Harabasz: 265.53	86.20
+Finetune Time: 33.79	3.91
+
+
+dataset_name: MSRC_v1
+
+structral noise: 0
+feature noise: 0.0
+h hop: 3
+topK: 3
+dynamically adjaust h & k : 1
+ACC: 99.90	0.29
+NMI: 99.79	0.64
+Purity: 99.90	0.29
+ARI: 99.78	0.67
+P: 99.82	0.55
+R: 99.82	0.55
+F: 99.82	0.55
+Davies_Bouldin: 0.49	0.03
+Calinski_Harabasz: 287.49	28.86
+Finetune Time: 33.68	1.66
+
+dataset_name: bbcsport
+
+structral noise: 0
+feature noise: 0.0
+h hop: 3
+topK: 3
+dynamically adjaust h & k : 1
+ACC: 98.47	0.17
+NMI: 94.73	0.59
+Purity: 98.47	0.17
+ARI: 95.43	0.30
+P: 97.01	0.32
+R: 97.01	0.32
+F: 97.01	0.32
+Davies_Bouldin: 0.44	0.00
+Calinski_Harabasz: 1055.86	22.19
+Finetune Time: 90.71	9.04
+
+dataset_name: 100leaves
+
+structral noise: 0
+feature noise: 0.0
+h hop: 2
+topK: 3
+dynamically adjaust h & k : 1
+ACC: 93.59	0.39
+NMI: 97.11	0.22
+Purity: 93.69	0.40
+ARI: 90.51	0.53
+P: 91.04	0.62
+R: 94.26	0.48
+F: 92.62	0.53
+Davies_Bouldin: 1.05	0.03
+Calinski_Harabasz: 63.84	32.74
+Finetune Time: 195.49	9.99
+
+dataset_name: Mfeat
+
+structral noise: 0
+feature noise: 0.0
+h hop: 3
+topK: 3
+dynamically adjaust h & k : 1
+ACC: 99.70	0.34
+NMI: 99.18	0.53
+Purity: 99.70	0.33
+ARI: 99.25	0.21
+P: 99.23	0.54
+R: 99.22	0.32
+F: 99.22	0.32
+Davies_Bouldin: 0.69	0.14
+Calinski_Harabasz: 1019.97	31.15
+Finetune Time: 360.41	8.13
+
+dataset_name: UCI
+
+structral noise: 0
+feature noise: 0.0
+h hop: 3
+topK: 3
+dynamically adjaust h & k : 1
+ACC: 98.65	0.31
+NMI: 96.68	0.45
+Purity: 98.65	0.32
+ARI: 97.02	0.26
+P: 97.35	0.14
+R: 97.35	0.14
+F: 97.35	0.14
+Davies_Bouldin: 0.66	0.06
+Calinski_Harabasz: 1041.69	17.53
+Finetune Time: 299.15	26.73
+
+dataset_name: Caltech101-20
+
+structral noise: 0
+feature noise: 0.0
+h hop: 3
+topK: 3
+dynamically adjaust h & k : 1
+ACC: 75.23	1.25
+NMI: 67.80	0.74
+Purity: 75.82	0.87
+ARI: 75.23	0.53
+P: 64.03	0.16
+R: 77.02	0.53
+F: 69.92	0.18
+Davies_Bouldin: 1.56	0.04
+Calinski_Harabasz: 269.04	25.41
+Finetune Time: 2003.03	64.36
+
+dataset_name: CiteSeer
+
+structral noise: 0
+feature noise: 0.0
+h hop: 4
+topK: 5
+dynamically adjaust h & k : 1
+ACC: 67.33	0.21
+NMI: 39.37	0.07
+Purity: 67.39	0.23
+ARI: 39.08	0.11
+P: 49.67	0.13
+R: 54.59	0.15
+F: 52.01	0.14
+Davies_Bouldin: 0.79	0.21
+Calinski_Harabasz: 1693.62	78.33
+Finetune Time: 565.11	59.12
+
