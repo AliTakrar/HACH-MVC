@@ -504,7 +504,7 @@ if __name__ == '__main__':
     parser.add_argument('--load_saved', action='store_true', default=False, help='load saved data.')
     parser.add_argument('--cuda_device', type=str, default='0', help='The number of cuda device.')
     parser.add_argument('--direction', type=str, default='./data/datasets/', help='direction of datasets')
-    parser.add_argument('--dataset_name', type=str, default='MSRC_v1', help='The dataset used for training/testing')
+    parser.add_argument('--dataset_name', type=str, default='CiteSeer', help='The dataset used for training/testing')
     parser.add_argument('--normalization', type=str, default='normalize', help='default normalize')
     parser.add_argument('--am_first_dim', type=int, default=256, help='the dim of the first layer in PM')
     parser.add_argument('--am_second_dim', type=int, default=256, help='the dim of the second layer in PM')
