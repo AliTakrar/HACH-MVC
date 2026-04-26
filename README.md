@@ -1,9 +1,9 @@
 # HACH‑MVC
 Hierarchical Anchor‑Guided Contrastive Learning with Heterogeneous GNN for Multi‑View Clustering
-
+https://doi.org/10.1016/j.knosys.2026.116033
 This repository contains the official implementation of the method presented in the above paper.
 
-Overview
+
 Modern datasets are rarely monolithic – images, text, graphs, and other modalities coexist and complement each other.
 The task of Multi‑View Clustering (MVC) is to discover the underlying groups by jointly leveraging all views.
 
@@ -22,5 +22,5 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________
 
 
-https://doi.org/10.1016/j.knosys.2026.116033
+
  
