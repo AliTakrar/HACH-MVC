@@ -1,0 +1,37 @@
+Copyright (c) 2026 Ali Takrar
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to use,
+copy, modify, or distribute the Software for NON-COMMERCIAL purposes only,
+under the following conditions:
+
+1. Attribution:
+   Any use, modification, or distribution of this Software, or any portion of it,
+   must include clear credit to the original author:
+   "Ali Takrar" and a citation of the following paper:
+   HACH-MVC: Hierarchical Anchor-Guided Contrastive Learning with Heterogeneous GNN for Multi-View Clustering
+   https://doi.org/10.1016/j.knosys.2026.116033
+
+2. Non-Commercial Use Only:
+   The Software, including any modified version, derivative work, or any portion
+   of its code, may NOT be used for commercial purposes. Commercial use includes,
+   but is not limited to:
+   - use in a business,
+   - use in a paid product or service,
+   - use in research with commercial funding,
+   - use that produces financial gain.
+
+3. Derivative Works:
+   Any modified version of the Software, or any software incorporating portions
+   of this Software, remains subject to the same Attribution and Non-Commercial
+   restrictions. Modifications DO NOT remove these obligations.
+
+4. Commercial Licensing:
+   Any commercial use of this Software, modified or unmodified, requires PRIOR
+   WRITTEN PERMISSION from the author. To obtain a commercial license, contact:
+   takrar.co@gmail.com.
+
+5. No Warranty:
+   The Software is provided “as is,” without warranty of any kind, express or
+   implied, including but not limited to warranties of merchantability, fitness
+   for a particular purpose, and non-infringement.
