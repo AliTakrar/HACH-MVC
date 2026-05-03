@@ -38,5 +38,16 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________
 
 
+## License
+
+This project is licensed under a custom Non‑Commercial + Attribution license by Ali Takrar.
+Any use, modification, or redistribution must credit the author and cite the
+associated research paper:
+
+HACH-MVC: Hierarchical Anchor-Guided Contrastive Learning with Heterogeneous GNN for Multi-View Clustering
+https://doi.org/10.1016/j.knosys.2026.116033
+
+Commercial use of this software—modified or unmodified—requires prior written
+permission. Contact: takrar.co@gmail.com
 
  
