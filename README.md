@@ -2,6 +2,8 @@
 Hierarchical Anchor‑Guided Contrastive Learning with Heterogeneous GNN for Multi‑View Clustering
 https://doi.org/10.1016/j.knosys.2026.116033
 
+Elsevier has provided a promotional link granting free access to the full manuscript until June 16, 2026. I invite you to read or download the final version here:
+https://authors.elsevier.com/c/1m-nK3OAb9KcCk
 This repository contains the official implementation of the method presented in the above paper.
 
 
